@@ -1,1 +1,24 @@
+#3)Crie uma lista com os 20 primeiros colocados do Campeonato Brasileiro de Futebol.
+#a) Faça um programa que mostre os 5 primeiros colocados;
+#b) Os últimos 4 colocados (zona de rebaixamento);
+#c) Mostre a posição em que se encontra a Chapecoense;
+#d) Exiba a lista dos times em ordem alfabética;
 
+lista = ["Palmeiras", "Santos", "Flamengo", "Internacional", "Botafogo","Atletico","Goias","Bahia","Sao Paulo","Corinthians","Atletico PR","Ceara","Fortaleza","Vasco","Fluminense","Chapecoense","Cruzeiro","CSA","AVAI","Gremio"]
+
+print("Primeiro Colocado:  ",lista[0])
+print("Segundo Colocado:   ",lista[1])
+print("Terceiro Colocado:  ",lista[2])
+print("Quarto Colocado:    ",lista[3])
+print("Quinto Colocado:    ",lista[4])
+print("   ")
+print("Agora os 5 ultimos Colocados   ")
+print("   ")
+print("Décimo quinto Colocado:  ",lista[15])
+print("Décimo sexto Colocado:   ",lista[16])
+print("Décimo setimo Colocado:  ",lista[17])
+print("Décimo oitavo Colocado:  ",lista[18])
+print("Décimo nono Colocado:    ",lista[19])
+print("   ")
+print("A",lista[15],"Esta na Decima quinta colocação")
+print("   ")
